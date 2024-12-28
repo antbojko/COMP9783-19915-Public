@@ -23,7 +23,7 @@ The goal of this repository is to:
 
 If you have any feedback, questions, or suggestions, feel free to reach out:
 
-- **Email**: anthony.bojkovski@example.com  
+- **Email**: anthony.bojkovskigmail.com  
 - **LinkedIn**: [Anthony Bojkovski](https://www.linkedin.com/in/anthonybojkovski)
 
 ---
